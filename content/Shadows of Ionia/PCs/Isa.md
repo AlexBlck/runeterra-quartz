@@ -1,3 +1,9 @@
+---
+title: Isa
+draft: false
+tags:
+  - PC
+---
 > [!infobox | right]
 > # Isa
 > ![[isa_portrait.jpg|cover hm-sm]]
